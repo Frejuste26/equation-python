@@ -5,34 +5,28 @@ Basée sur des calculs exacts en fractions pour une meilleure précision.
 📸 Capture d'écran
 $ python equation.py
 ==================================================
-           RÉSOLUTION D'ÉQUATION DU SECOND DEGRÉ           
-==================================================
+           RÉSOLUTION D'ÉQUATION DU SECOND DEGRÉ    
 
-Forme: ax² + bx + c = 0
+           Forme: ax² + bx + c = 0
 
-Saisir le coefficient a: 1
-Saisir le coefficient b: -3
-Saisir le coefficient c: 2
+           Saisir le coefficient a: 1
+           Saisir le coefficient b: -3
+           Saisir le coefficient c: 2
 
-==================================================
-               Résolution de l'équation               
-==================================================
+             Résolution de l'équation   
 
-(Eq): 1x² - 3x + 2 = 0
+           (Eq): 1x² - 3x + 2 = 0
 
-==================================================
-              CALCUL DU DISCRIMINANT              
-==================================================
-Δ = 1
+           CALCUL DU DISCRIMINANT   
+           Δ = 1
+           RÉSULTAT  
 
-==================================================
-                     RÉSULTAT                    
-==================================================
-Le discriminant est positif.
-L'équation admet deux solutions distinctes:
+           Le discriminant est positif.
+           L'équation admet deux solutions distinctes:
 
-x₁ = 2
-x₂ = 1
+           x₁ = 2
+           x₂ = 1
+==================================================
 
 🚀 Fonctionnalités
 ✅ Résolution d'équations du second degré
